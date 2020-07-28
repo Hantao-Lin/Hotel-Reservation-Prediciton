@@ -1,4 +1,4 @@
-# Capstone Project 1 Hotel Reservation Prediciton
+# Capstone Project 1: Hotel Reservation Prediciton
 ### Project Objective
 The purpose of this project is to use available data to predict whether a hotel client is going to cancel their reservation. This model is useful for hotel manager to improve their hotel revenue.
 ### Method Used
