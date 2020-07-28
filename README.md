@@ -12,7 +12,7 @@ The purpose of this project is to use available data to predict whether a hotel 
 ### Project Description 
 This project contains steps to tackle a real life problem using data. It also contain deck slide and reports of all the findings.
 * Proposal (Code) [click here](Capstone_1_Proposal.pdf)
-* Data Wranggling (Code) [click here](Data Wrangling_final.ipynb)
+* Data Wranggling (Code) [click here](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Data%20Wrangling_final.ipynb)
 * Data Wranggling (Report) [click here](Data_Wrangling.pdf)
 * Data Storytelling (Code) [click here](Data Story Telling2.ipynb)
 * Data Storytelling (Report) [click here](Data Storytelling.pdf)
