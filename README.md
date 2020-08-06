@@ -22,3 +22,4 @@ This project contains steps to tackle a real life problem using data. It also co
     * 5.1 [Milestone Presentation](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Hotel%20Reservation-%E5%B7%B2%E8%BD%AC%E6%A1%A3.pdf)
 6. [Machine Learning](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Machine%20Learning.ipynb) 
     * 6.1 [Machine Learnning (Report)](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Machine%20Learning.docx)
+7. [Final Report](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Final%20Report.docx)
