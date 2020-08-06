@@ -24,3 +24,6 @@ This project contains steps to tackle a real life problem using data. It also co
     * 6.1 [Machine Learnning (Report)](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Machine%20Learning.docx)
 7. [Final Report](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Final%20Report.docx)
     * 7.1 [Final Report Presentation](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Hotel%20Reservation%20final.pdf) 
+### Result Overview
+![Top 10 Influencial Features](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/1.png)
+![ROC Curve for Multiple Machine Learning Algorithms](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/2.png)
