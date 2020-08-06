@@ -11,11 +11,11 @@ The purpose of this project is to use available data to predict whether a hotel 
 * Jupyter Notebook
 ### Project Description 
 This project contains steps to tackle a real life problem using data. It also contains codes and reports of all the findings.
-* Proposal (Code) [click here](Capstone_1_Proposal.pdf)
-* Data Wranggling (Code) [click here](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Data%20Wrangling_final.ipynb)
-* Data Wranggling (Report) [click here](Data_Wrangling.pdf)
-* Data Storytelling (Code) [click here](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Data%20Story%20Telling2.ipynb)
-* Data Storytelling (Report) [click here](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Data%20Storytelling.pdf)
-* Statistical Analysis (Code) [click here](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Statistical%20Analysis.ipynb)
-* Statistical Analysis (Report) [click here](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Statistical%20Analysis.pdf)
-* Machine Learning (Code) [click here](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Machine%20Learning.ipynb) 
+1. [Project Proposal](Capstone_1_Proposal.pdf)
+2. [Data Wranggling Code](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Data%20Wrangling_final.ipynb)
+   * 2.1 [Data Wranggling (Report)](Data_Wrangling.pdf)
+3. [Data Storytelling](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Data%20Story%20Telling2.ipynb)
+   * 3.1 [Data Storytelling (Report)](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Data%20Storytelling.pdf)
+4. [Statistical Analysis](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Statistical%20Analysis.ipynb)
+    * 4.1 [Statistical Analysis (Report)](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Statistical%20Analysis.pdf)
+5. [Machine Learning](https://github.com/Hantao-Lin/Capstone-Project-1-Hotel-Reservation-Prediciton/blob/master/Machine%20Learning.ipynb) 
